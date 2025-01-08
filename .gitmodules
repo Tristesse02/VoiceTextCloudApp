@@ -4,3 +4,6 @@
 [submodule "template-audio-recording"]
 	path = template-audio-recording
 	url = https://github.com/Tristesse02/template-audio-recording.git
+[submodule "Word_Predictor_Model"]
+	path = Word_Predictor_Model
+	url = https://github.com/Tristesse02/Word_Predictor_Model.git
