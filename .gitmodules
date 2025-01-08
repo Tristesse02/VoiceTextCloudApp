@@ -1,0 +1,6 @@
+[submodule "amazon-transcribe-websocket"]
+	path = amazon-transcribe-websocket
+	url = https://github.com/Tristesse02/amazon-transcribe-websocket.git
+[submodule "template-audio-recording"]
+	path = template-audio-recording
+	url = https://github.com/Tristesse02/template-audio-recording.git
